@@ -14,10 +14,12 @@ function thousandPrime() {
       arr.push(i);
     }
     if (arr.length == 10001){
-      console.log(i);
-      return;
+      return i;
     }
   }
 }
 
 thousandPrime();
+
+// 104743
+// [Done] exited with code = 0 in 0.717 seconds

@@ -15,3 +15,8 @@ function smlNum() {
   }
   return num;
 }
+smlNum();
+
+
+// 232792560
+// [Done] exited with code = 0 in 33.69 seconds

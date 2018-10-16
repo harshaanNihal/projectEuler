@@ -16,3 +16,7 @@ function largPrimeFact(n) {
   console.log(larNum);
 }
 largPrimeFact(600851475143);
+
+
+// 6857
+// [Done] exited with code = 0 in 5.106 seconds

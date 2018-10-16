@@ -14,6 +14,7 @@ function problem() {
       }
     }
   }
+  console.log(largest);
   return largest;
 }
 problem();
@@ -26,3 +27,7 @@ function palan(strN) {
   }
   return flag;
 }
+
+
+// 906609
+// [Done] exited with code = 0 in 1.075 seconds
